@@ -1,43 +1,18 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>ZenPurchase</title>
-  <link rel="shortcut icon" type="image/png" href=".png" />
-  <link rel="stylesheet" type="text/css" href="style.css" media="all" />
-</head>
-
-<body class="home blog group-blog">
-  <div id="page" class="hfeed site">
-    <header id="masthead" class="site-header" role="banner">
-      <div class="site-branding clear">
-        <h1 class="site-title">
-          <a href="http://www.zenpurchase.com/" class="logo-zenpurchase">ZenPurchase Home</a>
-          <a href="index.html" title="ZenPurchase" rel="home" class="logo-community">ZenPurchase</a>
-        </h1>
-        <div class="site-buttons pull-right no-mobile">
-          <a href="http://www.zenpurchase.com/signup" target="_blank">Sign Up</a>
-          <a href="https://.com/" target="_blank" class="btn">Place Holder</a>
-        </div>
-      </div>
-
-      <nav id="site-navigation" class="navigation-main" role="navigation">
-        <h1 class="menu-toggle">Menu</h1>
-        <div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
-
-        <div class="menu-community-container"><ul id="menu-community" class="menu"><li id="menu-item-231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-231"><a href="http://www.zenpurchase.com/">ZenPurchase Home</a></li>
-          <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-110"><a href="index.html">Blog</a></li>
-          <li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="archives/index.html">Archives</a></li>
-          <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="events/index.html">Events</a></li>
-        </ul></div>   </nav><!-- #site-navigation -->
-      </header><!-- #masthead -->
+<?php get_header(); ?>
 
       <div id="main" class="site-main clear">
 
         <div id="primary" class="content-area">
           <div id="content" class="site-content" role="main">
+<!-- This is an example of what the wordpress loop looks like -->
+<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+  <article>
+    <h4><a href="<?php the_permalink(); ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h4>
+    <?php include (TEMPLATEPATH . '/inc/meta.php' ); ?>
+    <?php the_content(); ?>
+  </article>
+<?php endwhile; endif; ?>
+
 
             <article id="post-1686" class="post-1686 post type-post status-publish format-standard hentry category-articles">
               <header class="entry-header">
@@ -152,19 +127,4 @@
         </aside>  </div><!-- #secondary -->
 
       </div><!-- #main -->
-
-      <footer id="colophon" class="site-footer" role="contentinfo">
-        <div class="site-info clear">
-          <div class="pull-left">
-            &copy;2014, <a href="http://www.zenpurchase.com/" target="_blank">ZenPurchase</a>, Inc. All Rights Reserved.
-          </div>
-          <div class="pull-right social-icons">
-            <span class="no-mobile">follow us</span>
-            <a class="icon-social fb-white" href="https://www.facebook.com/zenpurchase" target="_blank">ZenPurchase Facebook</a>
-            <a class="icon-social tw-white" href="https://twitter.com/zenpurchase" target="_blank">ZenPurchase Twitter</a>
-          </div>
-        </div><!-- .site-info -->
-      </footer><!-- #colophon -->
-    </div><!-- #page -->
-  </body>
-  </html>
+<?php get_footer(); ?>
