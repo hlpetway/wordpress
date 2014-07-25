@@ -7,20 +7,20 @@
     <title>ZenPurchase</title>
     <link rel="shortcut icon" type="image/png" href=".png" />
     <link rel="stylesheet" type="text/css" href="style.css" media="all" />
-</head>
+  </head>
 
-<body class="home blog group-blog">
-<div id="page" class="hfeed site">
-    <header id="masthead" class="site-header" role="banner">
-    <div class="site-branding clear">
-      <h1 class="site-title">
-        <a href="http://www.zenpurchase.com/" class="logo-zenpurchase">ZenPurchase Home</a>
-        <a href="index.html" title="ZenPurchase" rel="home" class="logo-community">ZenPurchase</a>
-      </h1>
-      <div class="site-buttons pull-right no-mobile">
-        <a href="http://www.zenpurchase.com/signup" target="_blank">Sign Up</a>
-        <a href="https://.com/" target="_blank" class="btn">Place Holder</a>
-      </div>
+  <body class="home blog group-blog">
+    <div id="page" class="hfeed site">
+      <header id="masthead" class="site-header" role="banner">
+        <div class="site-branding clear">
+        <h1 class="site-title">
+          <a href="http://www.zenpurchase.com/" class="logo-zenpurchase">ZenPurchase Home</a>
+          <a href="index.html" title="ZenPurchase" rel="home" class="logo-community">ZenPurchase</a>
+        </h1>
+        <div class="site-buttons pull-right no-mobile">
+          <a href="http://www.zenpurchase.com/signup" target="_blank">Sign Up</a>
+          <a href="https://.com/" target="_blank" class="btn">Place Holder</a>
+        </div>
     </div>
 
     <nav id="site-navigation" class="navigation-main" role="navigation">
