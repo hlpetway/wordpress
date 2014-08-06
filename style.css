@@ -93,8 +93,7 @@ textarea {
 }
 
 body {
-  background: url('http://blog.rescale.com/wp-content/themes/rescale-dark/img/bg-gradient.png') repeat-x;
-  background-color: #666 !important;
+  background: #efefef;
   padding: 0 10px;
 }
 
@@ -1039,7 +1038,7 @@ header.page-header h1 span {
 
 header.page-header, h2.entry-title {
   width: 100%;
-  color: #424242;
+  color: #efefef;
   font-size: 1.5em;
   padding: 10px 30px;
   background: #efefef;
@@ -1084,7 +1083,7 @@ header.page-header h1 span {
   }
   .box-share h4.box-header {
     display: block;
-    background-color: #424242;
+    background-color: #424242#efefef;
     padding: 3px 10px 4px;
     color: #efefef;
     text-align: left;

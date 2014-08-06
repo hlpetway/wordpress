@@ -83,8 +83,8 @@
                 </article><!-- #post-## -->
 
                 <nav role="navigation" id="nav-below" class="navigation-paging">
-                  <h1 class="screen-reader-text">Post navigation</h1>
-                  <div class="nav-previous"><a href="page/2/index.html" ><span class="meta-nav">&laquo;&nbsp;Older posts</span></a></div>
+                  <h1 class="screen-reader-text">Post Navigation</h1>
+                  <div class="nav-previous"><a href="page/2/index.html" ><span class="meta-nav">&laquo;&nbsp;Older Posts</span></a></div>
 
                 </nav><!-- #nav-below -->
 
@@ -98,33 +98,19 @@
                 <input type="submit" class="submit" id="searchsubmit" value="Search" />
               </form>
 
-            </aside>    <aside id="recent-posts-2" class="widget widget_recent_entries">    <h1 class="widget-title">Recent Posts</h1>    <ul>
+            </aside><aside id="recent-posts-2" class="widget widget_recent_entries">    <h1 class="widget-title">Recent Posts</h1>    <ul>
             <li>
-              <a href="example1/index.html">The Cloud of Everything: A Universal Workspace</a>
+              <a href="example1/index.html">The Name Of Some Article</a>
               <span class="post-date">July 18, 2014</span>
             </li>
             <li>
-              <a href="example2/index.html">World Cup: Run Your Own CFD Analysis of a Spinning Soccer Ball</a>
+              <a href="example2/index.html">The Name of Some Article</a>
               <span class="post-date">July 11, 2014</span>
             </li>
             <li>
             </ul>
-          </aside><aside id="twitter-3" class="widget widget_twitter"><div><h1 class="widget-title"><span class='twitterwidget twitterwidget-title'>Twitter: zenpurchase</span></h1><ul><li><span class='entry-content'>The "Cloud of Everything" is here: <a href="http://t.co/sIPWyQxO5p" target="_blank">http://t.co/sIPWyQxO5p</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/zenpurchase/statuses/490227326915842048" target="_blank">about 5 days ago</a></span></span></li><li><span class='entry-content'>RT <a href="http://twitter.com/ShawnWasserman" class="twitter-user" target="_blank">@ShawnWasserman</a>: <a href="http://twitter.com/search?q=%23CFD" class="twitter-hashtag" target="_blank">#CFD</a> of a <a href="http://twitter.com/search?q=%23Soccer" class="twitter-hashtag" target="_blank">#Soccer</a> Ball’s Curving Flight &gt; <a href="http://twitter.com/zenpurchase" class="twitter-user" target="_blank">@zenpurchase</a> <a href="http://t.co/GoYS8B4626" target="_blank">http://t.co/GoYS8B4626</a> <a href="http://t.co/hPmD87ytHB" target="_blank">http://t.co/hPmD87ytHB</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/zenpurchase/statuses/489805671160741888" target="_blank">about 6 days ago</a></span></span></li><li><span class='entry-content'>GOAL! In preparation for the final match, run your own CFD analysis of a soccer ball using <a href="http://twitter.com/ConvergeCFD" class="twitter-user" target="_blank">@ConvergeCFD</a> and ZenPurchase. <a href="http://t.co/9QWy552Xsu" target="_blank">http://t.co/9QWy552Xsu</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/zenpurchase/statuses/487714742329290753" target="_blank">about 1 week ago</a></span></span></li><li><span class='entry-content'>User explains how using the <a href="http://twitter.com/search?q=%23ZenPurchase" class="twitter-hashtag" target="_blank">#ZenPurchase</a> platform allowed him to run better, faster AVL <a href="http://twitter.com/search?q=%23simulations" class="twitter-hashtag" target="_blank">#simulations</a>. <a href="http://t.co/g2jQjIVw1y" target="_blank">http://t.co/g2jQjIVw1y</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/rescaleinc/statuses/487367293114933248" target="_blank">about 1 week ago</a></span></span></li><li><span class='entry-content'>Do you want to run CAE simulations in the cloud? <a href="http://t.co/vd0HvEbKea" target="_blank">http://t.co/vd0HvEbKea</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/rescaleinc/statuses/484799167496089600" target="_blank">about 2 weeks ago</a></span></span></li><li><span class='entry-content'>Do you use NX Nastran? Run simulations on demand in the cloud. <a href="https://t.co/Fr2vY3U9Tl" target="_blank">https://t.co/Fr2vY3U9Tl</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/rescaleinc/statuses/484468650993123328" target="_blank">about 3 weeks ago</a></span></span></li></ul></div></aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h1 class="widget-title">Tags</h1><div class="tagcloud"><a href='tag/aerospace/index.html' class='tag-link-6' title='1 topic' style='font-size: 8pt;'>aerospace</a>
-          <a href='tag/analysis/index.html' class='tag-link-28' title='1 topic' style='font-size: 8pt;'>analysis</a>
-          <a href='tag/automotive/index.html' class='tag-link-11' title='1 topic' style='font-size: 8pt;'>automotive</a>
-          <a href='tag/cfd/index.html' class='tag-link-9' title='2 topics' style='font-size: 16.4pt;'>cfd</a>
-          <a href='tag/cloud/index.html' class='tag-link-15' title='2 topics' style='font-size: 16.4pt;'>cloud</a>
-          <a href='tag/doe/index.html' class='tag-link-12' title='1 topic' style='font-size: 8pt;'>doe</a>
-          <a href='tag/engineering/index.html' class='tag-link-27' title='1 topic' style='font-size: 8pt;'>engineering</a>
-          <a href='tag/feature/index.html' class='tag-link-13' title='3 topics' style='font-size: 22pt;'>feature</a>
-          <a href='tag/gce/index.html' class='tag-link-16' title='1 topic' style='font-size: 8pt;'>gce</a>
-          <a href='tag/hpc/index.html' class='tag-link-10' title='3 topics' style='font-size: 22pt;'>hpc</a>
-          <a href='tag/oil-and-gas/index.html' class='tag-link-29' title='1 topic' style='font-size: 8pt;'>oil and gas</a>
-          <a href='tag/parallel/index.html' class='tag-link-7' title='1 topic' style='font-size: 8pt;'>parallel</a>
-          <a href='tag/platform/index.html' class='tag-link-14' title='2 topics' style='font-size: 16.4pt;'>platform</a>
-          <a href='tag/security/index.html' class='tag-link-8' title='2 topics' style='font-size: 16.4pt;'>security</a>
-          <a href='tag/simulation/index.html' class='tag-link-24' title='1 topic' style='font-size: 8pt;'>simulation</a></div>
-        </aside>  </div><!-- #secondary -->
+          </aside><aside id="twitter-3" class="widget widget_twitter"><div><h1 class="widget-title"><span class='twitterwidget twitterwidget-title'>Twitter: zenpurchase</span></h1><ul><li><span class='entry-content'></span></li><li><span class='entry-content'></li></ul></div></aside>
+          </aside></div><!-- #secondary -->
 
       </div><!-- #main -->
 <?php get_footer(); ?>

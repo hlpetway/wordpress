@@ -20,7 +20,7 @@
         </h1>
         <div class="site-buttons pull-right no-mobile">
           <a href="http://www.zenpurchase.com/signup" target="_blank">Sign Up</a>
-          <a href="https://.com/" target="_blank" class="btn">Place Holder</a>
+          <a href="https://zenpurchase.com/" target="_blank" class="btn">ZenPurchase</a>
         </div>
       </div>
 
@@ -31,6 +31,5 @@
         <div class="menu-community-container"><ul id="menu-community" class="menu"><li id="menu-item-231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-231"><a href="http://www.zenpurchase.com/">ZenPurchase Home</a></li>
           <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-110"><a href="index.html">Blog</a></li>
           <li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="archives/index.html">Archives</a></li>
-          <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="events/index.html">Events</a></li>
         </ul></div>   </nav><!-- #site-navigation -->
       </header><!-- #masthead -->
